@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Battle For Life</string>
+
+    <!-- Welcome Page(activity_main) text-->
+    <string name="title">Battle For Life</string>
+    <string name="buttonLogon">Se connecter</string>
+    <string name="buttonCreateAccount">Créer compte</string>
+    <string name="buttonQuit">Quitter</string>
+
+
 </resources>
